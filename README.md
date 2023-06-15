@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SarvitK
 - 👀 I’m interested in Microprocessors
 - 🌱 I’m currently learning Verilog
-- 💞️ I’m looking to collaborate on RISC-V
-- 📫 How to reach me shubhams.vld@gmail.com
+
 
 -    It will be better if you help me to bridge the gap between #Intrests #Learning and #collaboration Details.
 
